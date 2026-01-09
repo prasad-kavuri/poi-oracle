@@ -1,0 +1,41 @@
+{
+  "name": "poi-oracle",
+  "version": "3.0.0",
+  "description": "AI Reasoning meets Ground Truth - Production-ready spatial intelligence platform",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "spatial-intelligence",
+    "ai",
+    "poi-classification",
+    "mapping",
+    "nextjs",
+    "ollama",
+    "openstreetmap"
+  ],
+  "author": "Prasad Kavuri",
+  "license": "MIT",
+  "dependencies": {
+    "@types/leaflet": "^1.9.21",
+    "@types/node": "^25.0.3",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.0.0",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.562.0",
+    "next": "^16.1.1",
+    "openai": "^6.15.0",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "react-leaflet": "^5.0.0",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.23",
+    "postcss": "^8.5.6"
+  }
+}
